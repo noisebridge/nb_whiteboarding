@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 
+from __future__ import print_function
+
 class Node(object):
     def __init__(self, value, left, right):
         self.value = value
@@ -26,7 +28,7 @@ def traverse(node):
     if node is None:
         return
     traverse(node.left)
-    print node.value
+    print(node.value)
     traverse(node.right)
 
 traverse(n5)
