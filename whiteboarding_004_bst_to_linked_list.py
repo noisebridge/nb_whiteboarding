@@ -16,6 +16,9 @@ performed in place (that is, on the original data structure).
 Hints: #509, #608, #646, #680, #707, #779
 '''
 
+from __future__ import print_function
+
+
 class Node:
     def __init__(self, val, node1=None, node2=None):
         self.val = val
