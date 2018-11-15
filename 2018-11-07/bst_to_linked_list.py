@@ -12,8 +12,6 @@ node and node2 is the right node) or a doubly linked list (where nodel is the pr
 node2 is the next node). Implement a method to convert a binary search tree (implemented with
 BiNode) into a doubly linked list. The values should be kept in order and the operation should be
 performed in place (that is, on the original data structure).
-
-Hints: #509, #608, #646, #680, #707, #779
 '''
 
 from __future__ import print_function
