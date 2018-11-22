@@ -4,9 +4,9 @@ Problems discussed at weekly whiteboarding meetups at [Noisebridge](https://www.
 
 ## 11/07
 
-1. [Longest path in DAG](/longest_path_in_dag.py)
-2. [BST to linked list](/bst_to_linked_list.py)
-3. [K smallest numbers in array](/smallest_k)
+1. [Longest path in DAG](/2018-11-07/longest_path_in_dag.py)
+2. [BST to linked list](/2018-11-07/bst_to_linked_list.py)
+3. [K smallest numbers in array](/2018-11-07/smallest_k)
 
 ## 11/14
 
