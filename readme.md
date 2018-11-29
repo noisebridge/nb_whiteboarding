@@ -10,7 +10,7 @@ Problems discussed at weekly whiteboarding meetups at [Noisebridge](https://www.
 
 ### 11/14
 
-1. [Rotate array](https://www.hackerrank.com/challenges/new-year-chaos/problem)
+1. [Rotate array](https://leetcode.com/problems/rotate-array/)
 2. [Detect cycle in undirected graph](https://www.geeksforgeeks.org/union-find/)
 3. [Roads and Libraries](https://www.hackerrank.com/challenges/torque-and-development/problem)
 4. [New Year Chaos](https://www.hackerrank.com/challenges/new-year-chaos/problem)
@@ -20,3 +20,10 @@ Problems discussed at weekly whiteboarding meetups at [Noisebridge](https://www.
 1. [Bouquet of flowers](https://www.geeksforgeeks.org/flipkart-internship-interview-on-campus/)
 2. [First missing positive](https://leetcode.com/problems/first-missing-positive/description/)
 3. [Median of two sorted arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)
+
+### 11/28
+
+1. [Find the duplicate number](https://leetcode.com/problems/find-the-duplicate-number/)
+2. [N-th Fibonacci Number](https://www.geeksforgeeks.org/program-for-nth-fibonacci-number/)
+3. [Shortest Supersequence](/2018-11-28/shortest_supersequence.cpp)
+4. [Design a spreadsheet](https://www.careercup.com/question?id=14949056)
