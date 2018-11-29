@@ -25,5 +25,5 @@ Problems discussed at weekly whiteboarding meetups at [Noisebridge](https://www.
 
 1. [Find the duplicate number](https://leetcode.com/problems/find-the-duplicate-number/)
 2. [N-th Fibonacci Number](https://www.geeksforgeeks.org/program-for-nth-fibonacci-number/)
-3. [Shortest Supersequence](/2018-11-28/shortest_supersequence.cpp)
+3. [Shortest Supersequence](/2018-11-28/shortest_supersequence.rb)
 4. [Design a spreadsheet](https://www.careercup.com/question?id=14949056)
