@@ -1,0 +1,7 @@
+1. git pull
+2. code stuff
+3. git add .
+4. git status
+5. git commit -m "message of what you did"
+6. git push origin master
+7. get onto github.com and click "pull request" button and confirm
