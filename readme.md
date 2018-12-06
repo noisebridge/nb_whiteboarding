@@ -27,3 +27,12 @@ Problems discussed at weekly whiteboarding meetups at [Noisebridge](https://www.
 2. [N-th Fibonacci Number](https://www.geeksforgeeks.org/program-for-nth-fibonacci-number/)
 3. [Shortest Supersequence](/2018-11-28/shortest_supersequence.rb)
 4. [Design a spreadsheet](https://www.careercup.com/question?id=14949056)
+
+### 12/05
+
+1. [Collect maximum points in a grid using two traversals](https://www.geeksforgeeks.org/collect-maximum-points-in-a-grid-using-two-traversals/)
+2. [Largest time for given digits](https://leetcode.com/problems/largest-time-for-given-digits/description/)
+3. [Reveal cards in increasing order](https://leetcode.com/problems/reveal-cards-in-increasing-order/description/)
+4. [Flip equivalent binary trees](https://leetcode.com/problems/flip-equivalent-binary-trees/description/)
+5. [Design an elevator](https://stackoverflow.com/questions/493276/modelling-an-elevator-using-object-oriented-analysis-and-design)
+6. Find point halfway along a line created by a set of points
