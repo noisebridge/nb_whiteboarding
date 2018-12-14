@@ -40,13 +40,13 @@ Problems discussed at weekly whiteboarding meetups at [Noisebridge](https://www.
 ### 12/12/2018
 
 1. A daily coding challenge question: Given a string that represents a file structure where directory and file names are on separate lines and where these names are indented with a tab to show which directories they are stored under, return the length of the absolute path to a file that has the most characters. For example, given `"dir1\n\tsubdir\n\t\tfile1.txt\n\tfile2.txt"`, the file structure is:
-```
-dir1
-  subdir
-    file1.txt
-  file2.txt
-```
-And the absolute path to a file with the most characters is `"dir1/subdir/file1.txt"`
+
+        dir1
+          subdir
+            file1.txt
+          file2.txt
+
+    And the absolute path to a file with the most characters is `"dir1/subdir/file1.txt"`.
 2. A daily coding challenge question that was asked in a Twitter interview: Write the most efficient data structure that stores the last N records of orders to a company that supports two operations: (1) Return the record for the ith last order and (2) add a new record for a new order.
 3. [Write a post-order traversal of a binary tree using iteration](https://leetcode.com/problems/binary-tree-postorder-traversal/description/)
 4. Given 100 computers that each gives you a number when you make a function call with the computer's ID, sum up the numbers.
