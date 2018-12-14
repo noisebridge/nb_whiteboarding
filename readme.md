@@ -51,6 +51,6 @@ Problems discussed at weekly whiteboarding meetups at [Noisebridge](https://www.
 3. [Write a post-order traversal of a binary tree using iteration](https://leetcode.com/problems/binary-tree-postorder-traversal/description/)
 4. Given 100 computers that each gives you a number when you make a function call with the computer's ID, sum up the numbers.
 5. CTCI concurrency problem: Given a class that has methods `method1()`, `method2()`, and `method3()`, each of these methods will be run on a separate thread. Devise a mechanism where `method2()` only starts after `method1()` is finished and `method3()` starts only after method2() is finished. ([Similar](https://www.careercup.com/question?id=4783236498587648))
-6. A daily coding challenge question: You are given a stream of numbers that is too big to fit in memory. How can you select a number uniformly at random from the numbers you are given?
-7. Given an array of N-1 elements where one number from 1 to N is missing, what is the missing number?
-8. 17.24 Max Submatrix: Given an NxN matrix of positive and negative integers, write code to find the submatrix with the largest possible sum. Variant discussed: submatrix is not necessarily square.
+6. [Select a random number from a stream with O(1) space](https://www.geeksforgeeks.org/select-a-random-number-from-stream-with-o1-space/)
+7. Given an array of N-1 elements where one number from 1 to N is missing, what is the missing number? ([Similar](https://leetcode.com/problems/missing-number/))
+8. CTCI 17.24, Max Submatrix: Given an NxN matrix of positive and negative integers, write code to find the submatrix with the largest possible sum. Variant discussed: submatrix is not necessarily square.
