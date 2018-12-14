@@ -32,10 +32,10 @@ Problems discussed at weekly whiteboarding meetups at [Noisebridge](https://www.
 
 1. [Cherry Pickup](https://leetcode.com/problems/cherry-pickup/description/)
 2. [Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/description/)
-3. [Given a sequence of points where consecutive points are connected by line segments to make a path, return the point along the path that correspond to a given percentage along the path.]
+3. [Given a sequence of points where consecutive points are connected by line segments to make a path, return the point along the path that correspond to a given percentage along the path.]()
 4. [Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/description/)
 5. [Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/description/)
-6. [Design an elevator]
+6. [Design an elevator]()
 
 ### 12/12/2018
 
@@ -44,11 +44,11 @@ dir1
   subdir
     file1.txt
   file2.txt
-And the absolute path to a file with the most characters is "dir1/subdir/file1.txt"]
-2. [A daily coding challenge question that was asked in a Twitter interview: Write the most efficient data structure that stores the last N records of orders to a company that supports two operations: (1) Return the record for the ith last order and (2) add a new record for a new order.]
+And the absolute path to a file with the most characters is "dir1/subdir/file1.txt"]()
+2. [A daily coding challenge question that was asked in a Twitter interview: Write the most efficient data structure that stores the last N records of orders to a company that supports two operations: (1) Return the record for the ith last order and (2) add a new record for a new order.]()
 3. [Write a post-order traversal of a binary tree using iteration](https://leetcode.com/problems/binary-tree-postorder-traversal/description/)
-4. [Given 100 computers that each gives you a number when you make a function call with the computer's ID, sum up the numbers.]
-5. [A concurrency problem in "Cracking the Coding Interview": Given a class that has methods method1(), method2(), and method3(), each of these methods will be run on a separate thread. Devise a mechanism where method2() only starts after method1() is finished and method3() starts only after method2() is finished.]
-6. [A daily coding challenge question: You are given a stream of numbers that is too big to fit in memory. How can you select a number uniformly at random from the numbers you are given?]
-7. Given an array of N-1 elements where one number from 1 to N is missing, what is the missing number?
-8. [A hard question from "Cracking the Coding Interview": Given a N x N matrix of numbers, give the sub-matrix (not necessarily square) whose elements form the largest sum.]
+4. [Given 100 computers that each gives you a number when you make a function call with the computer's ID, sum up the numbers.]()
+5. [A concurrency problem in "Cracking the Coding Interview": Given a class that has methods method1(), method2(), and method3(), each of these methods will be run on a separate thread. Devise a mechanism where method2() only starts after method1() is finished and method3() starts only after method2() is finished.]()
+6. [A daily coding challenge question: You are given a stream of numbers that is too big to fit in memory. How can you select a number uniformly at random from the numbers you are given?]()
+7. [Given an array of N-1 elements where one number from 1 to N is missing, what is the missing number?]()
+8. [A hard question from "Cracking the Coding Interview": Given a N x N matrix of numbers, give the sub-matrix (not necessarily square) whose elements form the largest sum.]()
