@@ -51,6 +51,6 @@ Problems discussed at weekly whiteboarding meetups at [Noisebridge](https://www.
 ### 12/19/2018
 
 1. [Dependency resolution](https://www.electricmonk.nl/log/2008/08/07/dependency-resolving-algorithm/) (Similar to CTCI 4.7)
-2. [Add two numbers stored in linked lists](https://leetcode.com/problems/add-two-numbers/description/)
+2. [CTCI 2.5: Add two numbers stored in linked lists](https://leetcode.com/problems/add-two-numbers/description/)
 3. [CTCI 2.3: Delete a node in the middle of a singly linked list, given only access to that node](http://sw-engineers.com/wiki/index.php/Cracking_The_Coding_Interview/Q_2.3)
 4. [Regions cut by slashes](https://leetcode.com/problems/regions-cut-by-slashes/)
