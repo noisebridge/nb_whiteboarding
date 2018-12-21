@@ -1,4 +1,10 @@
-# 12/12/2018: Problem 4 solution
+"""
+12/12/2018: Problem 4 solution
+
+Given 100 computers that each gives you a number when you make 
+a function call with the computer's ID, sum up the numbers.
+"""
+
 
 NUM_COMPS = 100
 
