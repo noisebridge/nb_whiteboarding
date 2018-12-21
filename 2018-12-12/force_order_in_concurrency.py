@@ -1,4 +1,9 @@
-#12/12/2018: Problem 5
+"""
+12/12/2018: Problem 5
+
+CTCI concurrency problem: Given a class that has methods `method1()`, `method2()`, and `method3()`, each of these methods will be run on a separate thread. Devise a mechanism where `method2()` only starts after `method1()` is finished and `method3()` starts only after `method2()` is finished.
+"""
+
 
 class Foo:
     def method1(self):

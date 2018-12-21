@@ -39,25 +39,18 @@ Problems discussed at weekly whiteboarding meetups at [Noisebridge](https://www.
 
 ### 12/12/2018
 
-1. A daily coding challenge question: Given a string that represents a file structure where directory and file names are on separate lines and where these names are indented with a tab to show which directories they are stored under, return the length of the absolute path to a file that has the most characters. For example, given `"dir1\n\tsubdir\n\t\tfile1.txt\n\tfile2.txt"`, the file structure is:
-
-        dir1
-          subdir
-            file1.txt
-          file2.txt
-
-    And the absolute path to a file with the most characters is `"dir1/subdir/file1.txt"`.
-2. A daily coding challenge question that was asked in a Twitter interview: Write the most efficient data structure that stores the last N records of orders to a company that supports two operations: (1) Return the record for the ith last order and (2) add a new record for a new order.
+1. [Longest file path](2018-12-12/longest_file_path.md)
+2. Write the most efficient data structure that stores the last N records of orders to a company that supports two operations: (1) Return the record for the ith last order and (2) add a new record for a new order.
 3. [Write a post-order traversal of a binary tree using iteration](https://leetcode.com/problems/binary-tree-postorder-traversal/description/)
-4. Given 100 computers that each gives you a number when you make a function call with the computer's ID, sum up the numbers.
-5. CTCI concurrency problem: Given a class that has methods `method1()`, `method2()`, and `method3()`, each of these methods will be run on a separate thread. Devise a mechanism where `method2()` only starts after `method1()` is finished and `method3()` starts only after `method2()` is finished. ([Similar](https://www.careercup.com/question?id=4783236498587648))
+4. [Concurrent sum](2018-12-12/concurrent_sum.py)
+5. [Force order in concurrency](2018-12-12/force_order_in_concurrency.py) ([Similar](https://www.careercup.com/question?id=4783236498587648))
 6. [Select a random number from a stream with O(1) space](https://www.geeksforgeeks.org/select-a-random-number-from-stream-with-o1-space/)
-7. Given an array of N-1 elements where one number from 1 to N is missing, what is the missing number? ([Similar](https://leetcode.com/problems/missing-number/))
-8. CTCI 17.24, Max Submatrix: Given an NxN matrix of positive and negative integers, write code to find the submatrix with the largest possible sum. Variant discussed: submatrix is not necessarily square.
+7. Find missing number in an array of N-1 elements where number from 1 to N is missing. ([Similar](https://leetcode.com/problems/missing-number/))
+8. CTCI 17.24, Max Submatrix: Given an NxN matrix of positive and negative integers, write code to find the submatrix with the largest possible sum. Variant: submatrix is not necessarily square.
 
 ### 12/19/2018
 
-1. [Dependency resolution](https://www.electricmonk.nl/log/2008/08/07/dependency-resolving-algorithm/)
+1. [Dependency resolution](https://www.electricmonk.nl/log/2008/08/07/dependency-resolving-algorithm/) (Similar to CTCI 4.7)
 2. [Add two numbers stored in linked lists](https://leetcode.com/problems/add-two-numbers/description/)
 3. [CTCI 2.3: Delete a node in the middle of a singly linked list, given only access to that node](http://sw-engineers.com/wiki/index.php/Cracking_The_Coding_Interview/Q_2.3)
 4. [Regions cut by slashes](https://leetcode.com/problems/regions-cut-by-slashes/)

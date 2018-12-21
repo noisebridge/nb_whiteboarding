@@ -21,14 +21,14 @@ This could also be solved with a topological sort.
 """
 
 def can_install(package, dependencies):
-    def can_install_r(package, dependencies):
+    def can_install_r(package):
         if package in pre:
             return False
         elif package not in post:
             pre.add(package)
     
             for neighbor in dependencies[package]:
-                if not can_install_r(neighbor, dependencies):
+                if not can_install_r(neighbor):
                     return False
                     
             pre.remove(package)
@@ -38,7 +38,7 @@ def can_install(package, dependencies):
 
     pre = set()
     post = set()
-    return can_install_r(package, dependencies)
+    return can_install_r(package)
 
 
 if __name__ == "__main__":
