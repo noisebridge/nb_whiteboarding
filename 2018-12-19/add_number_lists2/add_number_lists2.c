@@ -44,11 +44,13 @@ struct ListNode* addTwoNumbers(struct ListNode* l1, struct ListNode* l2) {
 }
 
 int main() {
-    int a_data[] = {2, 4, 3};
-    int b_data[] = {9, 5, 9, 4, 8};
+    // The number 243
+    int a_data[] = {3, 4, 2};
+    // The number 95948
+    int b_data[] = {8, 4, 9, 5, 9};
 
-    struct ListNode* a = newListFromArray(sizeof(a_data) / sizeof(a_data[0]), a_data);
-    struct ListNode* b = newListFromArray(sizeof(b_data) / sizeof(b_data[0]), b_data);
+    struct ListNode* a = newListFromArray(sizeof a_data / sizeof a_data[0], a_data);
+    struct ListNode* b = newListFromArray(sizeof b_data / sizeof b_data[0], b_data);
     struct ListNode* sum = addTwoNumbers(a, b);
 
     printList(sum);
