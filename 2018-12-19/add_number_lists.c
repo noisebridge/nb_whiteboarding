@@ -16,7 +16,7 @@ Node *new_node(int val) {
 
 Node *list(int len, int *arr) {
     int i;
-    Node dummy;
+    Node dummy = {};
 
     if (len > 0) {
         Node *current = new_node(arr[len-1]);
