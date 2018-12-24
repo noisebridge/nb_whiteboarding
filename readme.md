@@ -35,7 +35,7 @@ Problems discussed at weekly whiteboarding meetups at [Noisebridge](https://www.
 3. [Reveal cards in increasing order](https://leetcode.com/problems/reveal-cards-in-increasing-order/description/)
 4. [Flip equivalent binary trees](https://leetcode.com/problems/flip-equivalent-binary-trees/description/)
 5. [Design an elevator](https://stackoverflow.com/questions/493276/modelling-an-elevator-using-object-oriented-analysis-and-design)
-6. Given a sequence of points where consecutive points are connected by line segments to make a path, return the point along the path that correspond to a given percentage along the path.
+6. Given a sequence of points where consecutive points are connected by line segments to make a path, return the point along the path that corresponds to a given percentage along the path.
 
 ### 12/12/2018
 
