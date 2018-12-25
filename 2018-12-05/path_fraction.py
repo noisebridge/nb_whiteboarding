@@ -9,12 +9,13 @@ Author: Eugene Ma
 """
 
 import collections
+import math
+import bisect
+import turtle
 
 Point = collections.namedtuple('Point', ['x', 'y'])
 
 def get_dist(pt1, pt2):
-    import math
-
     return math.sqrt((pt2.x - pt1.x) ** 2 + (pt2.y - pt1.y) ** 2)
 
 def interpolate(pt1, pt2, t):
@@ -62,8 +63,6 @@ def get_point_for_path_frac(path_points, path_accum, frac):
         total_dist = path_accum[-1]
         frac_dist = frac * total_dist
 
-        import bisect
-
         # Binary search to the second point
         # (which is <= the target distance).
         pt2_idx = bisect.bisect_right(path_accum, frac_dist)
@@ -98,8 +97,6 @@ if __name__ == '__main__':
     ]
 
     path_accum = get_path_accum(path_points)
-
-    import turtle
 
     # Draw the path.
     for i, pt in enumerate(path_points):
