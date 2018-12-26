@@ -12,7 +12,7 @@ Author: Eugene Ma
 #include <stdio.h>
 
 struct ListNode* newListNode(int val, struct ListNode* next) {
-    struct ListNode* n = (struct ListNode*)malloc(sizeof(struct ListNode));
+    struct ListNode* n = malloc(sizeof(struct ListNode));
     n->val = val;
     n->next = next;
 
