@@ -15,21 +15,33 @@ import java.util.Arrays;
 */
 class KBitsCombination {
   public static void main(String[] args) {
+    ArrayList<int[]> combinations;
+
     System.out.println(" ================================= ");
     System.out.println(" Case for n = 8 and k = 3 ");
-    KBitsCombination.findAllCombinations(8, 3);
+    combinations = KBitsCombination.findAllCombinations(8, 3);
+    
+    for (int[] c : combinations) {
+      System.out.println(java.util.Arrays.toString(c));
+    }
+
     System.out.println(" ================================= ");
     System.out.println("  Case for n = 4 and k = 2 ");
-    KBitsCombination.findAllCombinations(4, 2);
+    combinations = KBitsCombination.findAllCombinations(4, 2);
+
+    for (int[] c : combinations) {
+      System.out.println(java.util.Arrays.toString(c));
+    }
   }
 
   /**
-   * Method that prints all combinations of possible 1's inside an n-length array
+   * Method that returns all combinations of possible 1's inside an n-length array
    *
    * @param n length of the array
    * @param k number of 1 bits to combine
+   * @return list with all possible combinations
    */
-  private static void findAllCombinations(int n, int k) {
+  private static ArrayList<int[]> findAllCombinations(int n, int k) {
     int[] array = new int[n];
     // The array is created with the indices we want to combine
     // if n is 8, an array of [0 1 2 3 4 5 6 7] is created.
@@ -40,9 +52,7 @@ class KBitsCombination {
     ArrayList<int[]> combinations = new ArrayList<>();
     KBitsCombination.findAllCombinations(array, new int[k], combinations, k, 0, 0);
 
-    for (int[] c : combinations) {
-      System.out.println(java.util.Arrays.toString(c));
-    }
+    return combinations;
   }
   
   /**
