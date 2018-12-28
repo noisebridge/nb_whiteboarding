@@ -1,4 +1,5 @@
-import java.util.Scanner;
+import java.util.ArrayList;
+import java.util.Arrays;
 
 /*
   Problem: Given n bits, return all possible combinations of k 1's.
@@ -14,16 +15,12 @@ import java.util.Scanner;
 */
 class KBitsCombination {
   public static void main(String[] args) {
-    Scanner scanner = new Scanner(System.in);
-    System.out.println("This is the solution for k bits combinator in n bits array");
-    System.out.println("Please specify the number of total bits n:");
-    Integer n = scanner.nextInt();
-    System.out.println("Please specify the number of bits to combine k:");
-    Integer k = scanner.nextInt();
-
-    KBitsCombination kBitsCombination = new KBitsCombination();
-
-    kBitsCombination.findAllCombinations(n, k);
+    System.out.println(" ================================= ");
+    System.out.println(" Case for n = 8 and k = 3 ");
+    KBitsCombination.findAllCombinations(8, 3);
+    System.out.println(" ================================= ");
+    System.out.println("  Case for n = 4 and k = 2 ");
+    KBitsCombination.findAllCombinations(4, 2);
   }
 
   /**
@@ -32,15 +29,20 @@ class KBitsCombination {
    * @param n length of the array
    * @param k number of 1 bits to combine
    */
-  private void findAllCombinations(int n, int k) {
+  private static void findAllCombinations(int n, int k) {
     int[] array = new int[n];
     // The array is created with the indices we want to combine
     // if n is 8, an array of [0 1 2 3 4 5 6 7] is created.
-    for(int i=0; i<n; i++) {
+    for (int i = 0; i < n; i++) {
       array[i] = i;
     }
     
-    findAllCombinations(array, new int[k], k, 0, 0);
+    ArrayList<int[]> combinations = new ArrayList<>();
+    KBitsCombination.findAllCombinations(array, new int[k], combinations, k, 0, 0);
+
+    for (int[] c : combinations) {
+      System.out.println(java.util.Arrays.toString(c));
+    }
   }
   
   /**
@@ -60,27 +62,21 @@ class KBitsCombination {
    * @param combinationIndex the current index of the current combination in the recursive stack.
    * @param arrayIndex the current index of the array in the recursive stack.
    */
-  private void findAllCombinations(int[] array, int[] combination, int k, int combinationIndex, int arrayIndex) {
-    if(combinationIndex == k) {
+  private static void findAllCombinations(int[] array, int[] combination, ArrayList<int[]> combinations, int k, int combinationIndex, int arrayIndex) {
+    if (combinationIndex == k) {
+      // A possible solution has been found, there is no need to continue down this path.
       int[] solution = new int[array.length];
-      for(int i : combination) {
+      for (int i : combination) {
         solution[i] = 1;
       }
-      
-      for(int i : solution) {
-        System.out.print(i+" ");
-      }
-      System.out.println("\n");
-      return;
+      combinations.add(solution);
+    } else if (arrayIndex < array.length) {
+      // A solution is still being composed, therefore further recursive calls are made
+      // to continue creating possible solutions.
+      combination[combinationIndex] = array[arrayIndex];
+    
+      KBitsCombination.findAllCombinations(array, combination, combinations, k, combinationIndex+1, arrayIndex+1);
+      KBitsCombination.findAllCombinations(array, combination, combinations, k, combinationIndex, arrayIndex+1);
     }
-    
-    if(arrayIndex >= array.length) {
-      return;
-    }
-    
-    combination[combinationIndex] = array[arrayIndex];
-    
-    findAllCombinations(array, combination, k, combinationIndex+1, arrayIndex+1);
-    findAllCombinations(array, combination, k, combinationIndex, arrayIndex+1);
   }
 }
