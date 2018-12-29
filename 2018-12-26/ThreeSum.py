@@ -2,34 +2,34 @@
 #https://leetcode.com/problems/3sum/
 
 # Find all triplets in an array that sum to a target
-# O(n^2) runtime, O(1) space
+# O(n^2) runtime, O(1) space method
 def threeSum(array, tgt):
-  array.sort()
-  triplets = []
+    array.sort()
+    triplets = []
 
-  for i in range(0,len(array)-3):
-    j = i+1
-    k = len(array)-1
+    for i in range(0,len(array)-3):
+        j = i+1
+        k = len(array)-1
 
-    if i > 0 and array[i] == array[i-1]: #Prevent duplicates
-      continue
+        if i > 0 and array[i] == array[i-1]: #Prevent duplicates
+          continue
 
-    # Minor improvement
-    if array[i] > tgt:
-      break
+        # Minor improvement
+        if array[i] > tgt:
+            break
 
-    while j < k:
-      triplet = array[i] + array[j] + array[k]
-      if triplet == tgt:
-        triplets.append([array[i], array[j], array[k]])
-        j += 1
-        k -= 1
-      elif triplet < tgt:
-        j += 1
-      else:
-        k -= 1
+        while j < k:
+            triplet = array[i] + array[j] + array[k]
+            if triplet == tgt:
+                triplets.append([array[i], array[j], array[k]])
+                j += 1
+                k -= 1
+            elif triplet < tgt:
+                j += 1
+            else:
+                k -= 1
 
-  return triplets
+    return triplets
 
 
 print(threeSum([-1, 0, 1, 2, -1, -4], 0)) # Expected [[-1, 0, 1], [-1, -1, 2]]
