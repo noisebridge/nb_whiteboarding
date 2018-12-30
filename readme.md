@@ -35,7 +35,7 @@ Problems discussed at weekly whiteboarding meetups at [Noisebridge](https://www.
 3. [Reveal cards in increasing order](https://leetcode.com/problems/reveal-cards-in-increasing-order/description/)
 4. [Flip equivalent binary trees](https://leetcode.com/problems/flip-equivalent-binary-trees/description/)
 5. [Design an elevator](https://stackoverflow.com/questions/493276/modelling-an-elevator-using-object-oriented-analysis-and-design)
-6. Given a sequence of points where consecutive points are connected by line segments to make a path, return the point along the path that correspond to a given percentage along the path.
+6. Given a sequence of points where consecutive points are connected by line segments to make a path, return the point along the path that corresponds to a given percentage along the path.
 
 ### 12/12/2018
 
@@ -54,3 +54,10 @@ Problems discussed at weekly whiteboarding meetups at [Noisebridge](https://www.
 2. [CTCI 2.5: Add two numbers stored in linked lists](https://leetcode.com/problems/add-two-numbers/description/)
 3. [CTCI 2.3: Delete a node in the middle of a singly linked list, given only access to that node](http://sw-engineers.com/wiki/index.php/Cracking_The_Coding_Interview/Q_2.3)
 4. [Regions cut by slashes](https://leetcode.com/problems/regions-cut-by-slashes/)
+
+### 12/26/2018
+
+1. [Generate all binary strings of length n with k bits set](https://stackoverflow.com/questions/1851134/generate-all-binary-strings-of-length-n-with-k-bits-set)
+2. [Print all paths from top left to bottom right of an n by m matrix moving only right and down](https://www.geeksforgeeks.org/print-all-possible-paths-from-top-left-to-bottom-right-of-a-mxn-matrix/)
+3. [2-sum, 3-sum, 4-sum and variants](https://www.reddit.com/r/dailyprogrammer/comments/6melen/20170710_challenge_323_easy_3sum/)
+4. [Encode and decode strings](http://buttercola.blogspot.com/2015/09/leetcode-encode-and-decode-strings.html)
