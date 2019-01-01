@@ -46,6 +46,14 @@ def get_path_accum(path_points):
     return path_accum
 
 def get_point_for_path_frac(path_points, path_accum, frac):
+    """
+    Returns the point at the fraction, frac, of the way along the path
+    defined by the points in path_points.
+
+    Use the get_path_accum() function to cache the accumulated distances,
+    and pass this as path_accum.
+    """
+
     if not path_points:
         return None
     elif len(path_points) == 1:
@@ -64,7 +72,8 @@ def get_point_for_path_frac(path_points, path_accum, frac):
         frac_dist = frac * total_dist
 
         # Binary search to the second point
-        # (which is <= the target distance).
+        # (which is at a distance > the target distance,
+        # so the distances before it are <= the target distance).
         pt2_idx = bisect.bisect_right(path_accum, frac_dist)
         pt1_idx = pt2_idx - 1
 
