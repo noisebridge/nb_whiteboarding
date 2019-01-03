@@ -61,3 +61,15 @@ Problems discussed at weekly whiteboarding meetups at [Noisebridge](https://www.
 2. [Print all paths from top left to bottom right of an n by m matrix moving only right and down](https://www.geeksforgeeks.org/print-all-possible-paths-from-top-left-to-bottom-right-of-a-mxn-matrix/)
 3. [2-sum, 3-sum, 4-sum and variants](https://www.reddit.com/r/dailyprogrammer/comments/6melen/20170710_challenge_323_easy_3sum/)
 4. [Encode and decode strings](http://buttercola.blogspot.com/2015/09/leetcode-encode-and-decode-strings.html)
+
+### 01/02/2019
+
+1. CTCI 1.1: Is unique
+2. CTCI 1.2: Check permutations
+3. CTCI 1.3: URLify
+4. CTCI 1.5: One away
+5. CTCI 1.6: String compression
+6. [All possible full BSTs](https://leetcode.com/problems/all-possible-full-binary-trees/)
+7. [Range sum of BST](https://leetcode.com/problems/range-sum-of-bst/)
+8. [Find itinerary (or return origin city)](https://www.geeksforgeeks.org/find-itinerary-from-a-given-list-of-tickets/)
+9. [LRU cache](https://leetcode.com/problems/lru-cache/)
