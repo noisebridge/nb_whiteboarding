@@ -1,6 +1,17 @@
 # Noisebridge Whiteboarding Workshop
 
-Problems discussed at weekly whiteboarding meetups at [Noisebridge](https://www.meetup.com/noisebridge/). Make a PR if you've written a solution.
+Problems discussed at weekly whiteboarding meetups at [Noisebridge](https://www.meetup.com/noisebridge/). Make a [PR](https://help.github.com/articles/creating-a-pull-request/) if you've written a solution.
+
+## Starting out
+
+If you're new to whiteboarding, here's a miniature prerequisite roadmap to help prepare you for the experience:
+
+1. Learn [programming fundamentals](https://greenteapress.com/wp/think-python-2e/) (variables, functions, loops, arrays, etc). [Python](https://www.python.org/about/gettingstarted/) is a popular language choice; however, most algorithm books use Java, C or C++, so exposure to one of those is recommended.
+2. Explore the [basics of data structures and algorithms](http://interactivepython.org/runestone/static/pythonds/index.html) (big-O, stacks, queues, graphs, hashing, sorting, searching, etc).
+3. Grab a copy of [Cracking the Coding Interview](http://ahmed-badawy.com/blog/wp-content/uploads/2018/10/Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.pdf), read a few chapters and try some problems.
+4. Sign up for [LeetCode](https://leetcode.com/ggorlen/) and [other coding challenge sites](https://medium.com/coderbyte/the-10-best-coding-challenge-websites-for-2018-12b57645b654) and try a few problems.
+
+## Past problems
 
 ### 11/07/2018
 
@@ -71,5 +82,16 @@ Problems discussed at weekly whiteboarding meetups at [Noisebridge](https://www.
 5. CTCI 1.6: String compression
 6. [All possible full BSTs](https://leetcode.com/problems/all-possible-full-binary-trees/)
 7. [Range sum of BST](https://leetcode.com/problems/range-sum-of-bst/)
-8. [Find itinerary (or return origin city)](https://www.geeksforgeeks.org/find-itinerary-from-a-given-list-of-tickets/)
+8. [Find itinerary (variant: return origin city)](https://www.geeksforgeeks.org/find-itinerary-from-a-given-list-of-tickets/)
 9. [LRU cache](https://leetcode.com/problems/lru-cache/)
+10. CTCI 15.7: Multithreaded FizzBuzz
+
+### 01/09/2019
+
+1. CTCI 4.1: Routes between nodes
+2. [Save the Queen!](https://www.hackerrank.com/contests/hourrank-31/challenges/save-the-queen)
+3. [Balanced parenthesis](http://interactivepython.org/courselib/static/pythonds/BasicDS/SimpleBalancedParentheses.html)
+4. [Combine fruits](https://www.codewars.com/kata/kata-2019-combine-fruits/)
+5. [Find and replace in string](https://leetcode.com/problems/find-and-replace-in-string/)
+6. [Word break](https://leetcode.com/problems/word-break/description/)
+7. [Best time to buy and sell stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
