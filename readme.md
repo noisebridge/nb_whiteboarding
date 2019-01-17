@@ -11,6 +11,12 @@ If you're new to whiteboarding, here's a miniature prerequisite roadmap to help 
 3. Grab a copy of [Cracking the Coding Interview](http://ahmed-badawy.com/blog/wp-content/uploads/2018/10/Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.pdf), read a few chapters and try some problems.
 4. Sign up for [LeetCode](https://leetcode.com/ggorlen/) and [other coding challenge sites](https://medium.com/coderbyte/the-10-best-coding-challenge-websites-for-2018-12b57645b654) and try a few problems.
 
+## Pull request guidelines
+
+- Please adhere to your language's typical style guidelines for indentation, whitespace and casing.
+- Focus on realistic solutions to whiteboarding problems (cap lines of code at a reasonable amount but feel free to subtract lines used to write larger helper functions that an interviewer would typically allow to be abbreviated, like a [disjoint-set](https://en.wikipedia.org/wiki/Disjoint-set_data_structure)).
+- Add a basic test suite or driver code.
+
 ## Past problems
 
 ### 11/07/2018
@@ -95,3 +101,12 @@ If you're new to whiteboarding, here's a miniature prerequisite roadmap to help 
 5. [Find and replace in string](https://leetcode.com/problems/find-and-replace-in-string/)
 6. [Word break](https://leetcode.com/problems/word-break/description/)
 7. [Best time to buy and sell stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
+
+### 01/16/2019
+
+1. [Decode String](https://leetcode.com/problems/decode-string/description/)
+2. Generate all possible parse trees for a word length `n` and a grammar
+3. [Reverse Vowels in a String](https://www.codewars.com/kata/reverse-vowels-in-a-string)
+4. [AML](https://github.com/imagineux/aml-translator)
+5. [Valid parenthesis string](https://leetcode.com/problems/valid-parenthesis-string/)
+6. [Longest palindromic substring](https://leetcode.com/problems/longest-palindromic-substring/description/)
