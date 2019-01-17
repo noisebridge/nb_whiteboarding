@@ -1,6 +1,6 @@
 # Noisebridge Whiteboarding Workshop
 
-Problems discussed at weekly whiteboarding meetups at [Noisebridge](https://www.meetup.com/noisebridge/). Make a [PR](https://help.github.com/articles/creating-a-pull-request/) if you've written a solution.
+This is an archive of whiteboarding problems discussed at weekly whiteboarding meetups at [Noisebridge](https://www.meetup.com/noisebridge/). Make a [PR](https://help.github.com/articles/creating-a-pull-request/) if you've written a solution.
 
 ## Starting out
 
@@ -9,13 +9,13 @@ If you're new to whiteboarding, here's a miniature prerequisite roadmap to help 
 1. Learn [programming fundamentals](https://greenteapress.com/wp/think-python-2e/) (variables, functions, loops, arrays, etc). [Python](https://www.python.org/about/gettingstarted/) is a popular language choice; however, most algorithm books use Java, C or C++, so exposure to one of those is recommended.
 2. Explore the [basics of data structures and algorithms](http://interactivepython.org/runestone/static/pythonds/index.html) (big-O, stacks, queues, graphs, hashing, sorting, searching, etc).
 3. Grab a copy of [Cracking the Coding Interview](http://ahmed-badawy.com/blog/wp-content/uploads/2018/10/Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.pdf), read a few chapters and try some problems.
-4. Sign up for [LeetCode](https://leetcode.com/ggorlen/) and [other coding challenge sites](https://medium.com/coderbyte/the-10-best-coding-challenge-websites-for-2018-12b57645b654) and try a few problems.
+4. Sign up for [LeetCode](https://leetcode.com/ggorlen/) and [other coding challenge sites](https://medium.com/coderbyte/the-10-best-coding-challenge-websites-for-2018-12b57645b654) and keep solving!
 
 ## Pull request guidelines
 
 - Please adhere to your language's typical style guidelines for indentation, whitespace and casing.
 - Focus on realistic solutions to whiteboarding problems (cap lines of code at a reasonable amount but feel free to subtract lines used to write larger helper functions that an interviewer would typically allow to be abbreviated, like a [disjoint-set](https://en.wikipedia.org/wiki/Disjoint-set_data_structure)).
-- Add a basic test suite or driver code.
+- Add a simple test suite or driver code.
 
 ## Past problems
 
@@ -107,6 +107,5 @@ If you're new to whiteboarding, here's a miniature prerequisite roadmap to help 
 1. [Decode String](https://leetcode.com/problems/decode-string/description/)
 2. Generate all possible parse trees for a word length `n` and a grammar
 3. [Reverse Vowels in a String](https://www.codewars.com/kata/reverse-vowels-in-a-string)
-4. [AML](https://github.com/imagineux/aml-translator)
-5. [Valid parenthesis string](https://leetcode.com/problems/valid-parenthesis-string/)
-6. [Longest palindromic substring](https://leetcode.com/problems/longest-palindromic-substring/description/)
+4. [Valid parenthesis string](https://leetcode.com/problems/valid-parenthesis-string/)
+5. [Longest palindromic substring](https://leetcode.com/problems/longest-palindromic-substring/description/)
