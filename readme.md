@@ -110,3 +110,11 @@ If you're new to whiteboarding, here's a miniature prerequisite roadmap to help 
 4. [Valid parenthesis string](https://leetcode.com/problems/valid-parenthesis-string/)
 5. Largest region in matrix
 6. [Longest palindromic substring](https://leetcode.com/problems/longest-palindromic-substring/description/)
+
+### 01/23/2019
+
+1. [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)
+2. [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+3. [Almost Sorted](https://www.hackerrank.com/challenges/almost-sorted/problem)
+4. [Find Peak Element](https://leetcode.com/problems/find-peak-element/)
+5. [CTCI 8.14 Boolean Evaluation](https://stackoverflow.com/questions/47341496/)
