@@ -122,6 +122,6 @@ If you're new to whiteboarding, here's a miniature prerequisite roadmap to help 
 ### 1/30/2019
 
 1. [Larry's Array](https://www.hackerrank.com/challenges/larrys-array/problem)
-2. Given `k` and an array, return an array of the `k` largest elements in the array.
+2. Given a number `k` and an array of numbers, return an array of the `k` largest elements in the array in any order.
 3. [String without AAA or BBB](https://leetcode.com/problems/string-without-aaa-or-bbb/description/)
 4. [Shortest palindrome](https://leetcode.com/problems/shortest-palindrome/)
