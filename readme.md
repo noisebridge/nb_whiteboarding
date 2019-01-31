@@ -1,6 +1,6 @@
 # Noisebridge Whiteboarding Workshop
 
-This is an archive of whiteboarding problems discussed at weekly whiteboarding meetups at [Noisebridge](https://www.meetup.com/noisebridge/). Make a [PR](https://help.github.com/articles/creating-a-pull-request/) if you've written a solution.
+This is an archive of whiteboarding problems discussed at weekly whiteboarding meetups at [Noisebridge](https://www.meetup.com/noisebridge/). Make a [PR](https://help.github.com/articles/creating-a-pull-request/) if you've written a solution. To pose an algorithm problem to the group, open an issue in this repository.
 
 ## Starting out
 
@@ -108,7 +108,7 @@ If you're new to whiteboarding, here's a miniature prerequisite roadmap to help 
 2. [Binary parse trees](2019-01-16/binary_parse_trees.md)
 3. [Reverse Vowels in a String](https://www.codewars.com/kata/reverse-vowels-in-a-string)
 4. [Valid parenthesis string](https://leetcode.com/problems/valid-parenthesis-string/)
-5. Largest region in matrix
+5. [Connected Cell in a Grid](https://www.hackerrank.com/challenges/ctci-connected-cell-in-a-grid/problem)
 6. [Longest palindromic substring](https://leetcode.com/problems/longest-palindromic-substring/description/)
 
 ### 01/23/2019
