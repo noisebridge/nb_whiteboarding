@@ -118,3 +118,10 @@ If you're new to whiteboarding, here's a miniature prerequisite roadmap to help 
 3. [Almost Sorted](https://www.hackerrank.com/challenges/almost-sorted/problem)
 4. [Find Peak Element](https://leetcode.com/problems/find-peak-element/)
 5. [CTCI 8.14 Boolean Evaluation](https://stackoverflow.com/questions/47341496/)
+
+### 1/30/2019
+
+1. [Larry's Array](https://www.hackerrank.com/challenges/larrys-array/problem)
+2. Given `k` and an array, return an array of the `k` largest elements in the array.
+3. [String without AAA or BBB](https://leetcode.com/problems/string-without-aaa-or-bbb/description/)
+4. [Shortest palindrome](https://leetcode.com/problems/shortest-palindrome/)
