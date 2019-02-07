@@ -125,3 +125,11 @@ If you're new to whiteboarding, here's a miniature prerequisite roadmap to help 
 2. Given a number `k` and an array of numbers, return an array of the `k` largest elements in the array in any order.
 3. [String without AAA or BBB](https://leetcode.com/problems/string-without-aaa-or-bbb/description/)
 4. [Shortest palindrome](https://leetcode.com/problems/shortest-palindrome/)
+
+### 2/6/2019
+
+1. Find leftmost `1` in linear time in a matrix of `1` and `0` where each row is sorted ascending (all `0`s are left of the `1`s).
+2. [Write `rand5()` using only `rand7()`](https://stackoverflow.com/questions/137783/expand-a-random-range-from-1-5-to-1-7)
+3. [House Robber](https://leetcode.com/problems/house-robber/description/)
+4. [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)
+5. [Remove nth node in linked list](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
