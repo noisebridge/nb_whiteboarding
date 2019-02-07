@@ -1,6 +1,6 @@
 # Noisebridge Whiteboarding Workshop
 
-This is an archive of whiteboarding problems discussed at weekly whiteboarding meetups at [Noisebridge](https://www.meetup.com/noisebridge/). Make a [PR](https://help.github.com/articles/creating-a-pull-request/) if you've written a solution.
+This is an archive of whiteboarding problems discussed at weekly whiteboarding meetups at [Noisebridge](https://www.meetup.com/noisebridge/). Make a [PR](https://help.github.com/articles/creating-a-pull-request/) if you've written a solution. To pose an algorithm problem to the group, open an issue in this repository.
 
 ## Starting out
 
@@ -108,7 +108,7 @@ If you're new to whiteboarding, here's a miniature prerequisite roadmap to help 
 2. [Binary parse trees](2019-01-16/binary_parse_trees.md)
 3. [Reverse Vowels in a String](https://www.codewars.com/kata/reverse-vowels-in-a-string)
 4. [Valid parenthesis string](https://leetcode.com/problems/valid-parenthesis-string/)
-5. Largest region in matrix
+5. [Connected Cell in a Grid](https://www.hackerrank.com/challenges/ctci-connected-cell-in-a-grid/problem)
 6. [Longest palindromic substring](https://leetcode.com/problems/longest-palindromic-substring/description/)
 
 ### 01/23/2019
@@ -125,3 +125,11 @@ If you're new to whiteboarding, here's a miniature prerequisite roadmap to help 
 2. Given a number `k` and an array of numbers, return an array of the `k` largest elements in the array in any order.
 3. [String without AAA or BBB](https://leetcode.com/problems/string-without-aaa-or-bbb/description/)
 4. [Shortest palindrome](https://leetcode.com/problems/shortest-palindrome/)
+
+### 2/6/2019
+
+1. Find leftmost `1` in linear time in a matrix of `1` and `0` where each row is sorted ascending (all `0`s are left of the `1`s).
+2. [Write `rand5()` using only `rand7()`](https://stackoverflow.com/questions/137783/expand-a-random-range-from-1-5-to-1-7)
+3. [House Robber](https://leetcode.com/problems/house-robber/description/)
+4. [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)
+5. [Remove nth node in linked list](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
