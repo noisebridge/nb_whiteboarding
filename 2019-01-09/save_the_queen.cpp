@@ -8,7 +8,7 @@
 #include <iostream>
 #include <vector>
 
-double save_the_queen(int n, std::vector<int> a) {
+double save_the_queen(int n, std::vector<int> &a) {
     unsigned long long total = 0;
     std::sort(a.begin(), a.end());
     
