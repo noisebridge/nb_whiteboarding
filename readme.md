@@ -133,3 +133,10 @@ If you're new to whiteboarding, here's a miniature prerequisite roadmap to help 
 3. [House Robber](https://leetcode.com/problems/house-robber/description/)
 4. [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)
 5. [Remove nth node in linked list](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+
+### 2/13/2019
+
+1. Return deepest node in a binary tree
+2. [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/description/)
+3. [Roll a string](https://www.geeksforgeeks.org/roll-characters-string/)
+4. [Hungry Rabbit in Garden of Carrots](https://medium.com/@internetross/a-particularly-wascally-wabbit-lessons-from-my-annals-of-software-eng-interviews-7fd7574f009b)
