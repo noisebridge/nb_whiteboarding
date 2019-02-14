@@ -48,7 +48,7 @@ def largest_rectangle_area_with_location heights
         if size > best
           best = size
           best_location = [x, y, i - x]
-        end  
+        end
 
         last_popped = start_idx.pop
       end
@@ -68,7 +68,7 @@ def largest_rectangle_area_with_location heights
     if size > best
       best = size
       best_location = [x, y, heights.size - x]
-    end  
+    end 
   end
 
   best_location
@@ -88,8 +88,7 @@ y.times do |i|
   w.times {|j| hist[i][x+j] = "%"}
 end
 
-puts "\n +" + "-" * (heights.size * 2 - 1) + "+"
-hist.reverse.each {|row| puts " |" + row.join(" ") + "|"}
-puts " +" + "-" * (heights.size * 2 - 1) + "+\n\n"
-puts " [" + heights.join(",") + "]"
+puts "\n +#{"-" * (heights.size * 2 - 1)}+\n"
+hist.reverse.each {|row| puts " |#{row.join " "}|"}
+puts " +#{"-" * (heights.size * 2 - 1)}+\n\n [#{heights.join ","}]"
 puts " largest rect area: #{largest_rectangle_area heights}\n\n"
