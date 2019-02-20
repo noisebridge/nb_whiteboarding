@@ -1,6 +1,23 @@
 # Noisebridge Whiteboarding Workshop
 
-Problems discussed at weekly whiteboarding meetups at [Noisebridge](https://www.meetup.com/noisebridge/). Make a PR if you've written a solution.
+This is an archive of whiteboarding problems discussed at weekly whiteboarding meetups at [Noisebridge](https://www.meetup.com/noisebridge/). Make a [PR](https://help.github.com/articles/creating-a-pull-request/) if you've written a solution. To pose an algorithm problem to the group, open an issue in this repository.
+
+## Starting out
+
+If you're new to whiteboarding, here's a miniature prerequisite roadmap to help prepare you for the experience:
+
+1. Learn [programming fundamentals](https://greenteapress.com/wp/think-python-2e/) (variables, functions, loops, arrays, etc). [Python](https://www.python.org/about/gettingstarted/) is a popular language choice; however, most algorithm books use Java, C or C++, so exposure to one of those is recommended.
+2. Explore the [basics of data structures and algorithms](http://interactivepython.org/runestone/static/pythonds/index.html) (big-O, stacks, queues, graphs, hashing, sorting, searching, etc).
+3. Grab a copy of [Cracking the Coding Interview](http://ahmed-badawy.com/blog/wp-content/uploads/2018/10/Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.pdf), read a few chapters and try some problems.
+4. Sign up for [LeetCode](https://leetcode.com/ggorlen/) and [other coding challenge sites](https://medium.com/coderbyte/the-10-best-coding-challenge-websites-for-2018-12b57645b654) and keep solving!
+
+## Pull request guidelines
+
+- Please adhere to your language's typical style guidelines for indentation, whitespace and casing.
+- Focus on realistic solutions to whiteboarding problems (cap lines of code at a reasonable amount but feel free to subtract lines used to write larger helper functions that an interviewer would typically allow to be abbreviated, like a [disjoint-set](https://en.wikipedia.org/wiki/Disjoint-set_data_structure)).
+- Add a simple test suite or driver code.
+
+## Past problems
 
 ### 11/07/2018
 
@@ -71,5 +88,55 @@ Problems discussed at weekly whiteboarding meetups at [Noisebridge](https://www.
 5. CTCI 1.6: String compression
 6. [All possible full BSTs](https://leetcode.com/problems/all-possible-full-binary-trees/)
 7. [Range sum of BST](https://leetcode.com/problems/range-sum-of-bst/)
-8. [Find itinerary (or return origin city)](https://www.geeksforgeeks.org/find-itinerary-from-a-given-list-of-tickets/)
+8. [Find itinerary (variant: return origin city)](https://www.geeksforgeeks.org/find-itinerary-from-a-given-list-of-tickets/)
 9. [LRU cache](https://leetcode.com/problems/lru-cache/)
+10. CTCI 15.7: Multithreaded FizzBuzz
+
+### 01/09/2019
+
+1. CTCI 4.1: Routes between nodes
+2. [Save the Queen!](https://www.hackerrank.com/contests/hourrank-31/challenges/save-the-queen)
+3. [Balanced parenthesis](http://interactivepython.org/courselib/static/pythonds/BasicDS/SimpleBalancedParentheses.html)
+4. [Combine fruits](https://www.codewars.com/kata/kata-2019-combine-fruits/)
+5. [Find and replace in string](https://leetcode.com/problems/find-and-replace-in-string/)
+6. [Word break](https://leetcode.com/problems/word-break/description/)
+7. [Best time to buy and sell stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
+
+### 01/16/2019
+
+1. [Decode String](https://leetcode.com/problems/decode-string/description/)
+2. [Binary parse trees](2019-01-16/binary_parse_trees.md)
+3. [Reverse Vowels in a String](https://www.codewars.com/kata/reverse-vowels-in-a-string)
+4. [Valid parenthesis string](https://leetcode.com/problems/valid-parenthesis-string/)
+5. [Connected Cell in a Grid](https://www.hackerrank.com/challenges/ctci-connected-cell-in-a-grid/problem)
+6. [Longest palindromic substring](https://leetcode.com/problems/longest-palindromic-substring/description/)
+
+### 01/23/2019
+
+1. [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)
+2. [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+3. [Almost Sorted](https://www.hackerrank.com/challenges/almost-sorted/problem)
+4. [Find Peak Element](https://leetcode.com/problems/find-peak-element/)
+5. [CTCI 8.14 Boolean Evaluation](https://stackoverflow.com/questions/47341496/)
+
+### 1/30/2019
+
+1. [Larry's Array](https://www.hackerrank.com/challenges/larrys-array/problem)
+2. Given a number `k` and an array of numbers, return an array of the `k` largest elements in the array in any order.
+3. [String without AAA or BBB](https://leetcode.com/problems/string-without-aaa-or-bbb/description/)
+4. [Shortest palindrome](https://leetcode.com/problems/shortest-palindrome/)
+
+### 2/6/2019
+
+1. Find leftmost `1` in linear time in a matrix of `1` and `0` where each row is sorted ascending (all `0`s are left of the `1`s).
+2. [Write `rand5()` using only `rand7()`](https://stackoverflow.com/questions/137783/expand-a-random-range-from-1-5-to-1-7)
+3. [House Robber](https://leetcode.com/problems/house-robber/description/)
+4. [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)
+5. [Remove nth node in linked list](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+
+### 2/13/2019
+
+1. Return deepest node in a binary tree
+2. [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/description/)
+3. [Roll a string](https://www.geeksforgeeks.org/roll-characters-string/)
+4. [Hungry Rabbit in Garden of Carrots](https://medium.com/@internetross/a-particularly-wascally-wabbit-lessons-from-my-annals-of-software-eng-interviews-7fd7574f009b)
