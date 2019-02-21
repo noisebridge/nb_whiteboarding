@@ -140,3 +140,12 @@ If you're new to whiteboarding, here's a miniature prerequisite roadmap to help 
 2. [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/description/)
 3. [Roll a string](https://www.geeksforgeeks.org/roll-characters-string/)
 4. [Hungry Rabbit in Garden of Carrots](https://medium.com/@internetross/a-particularly-wascally-wabbit-lessons-from-my-annals-of-software-eng-interviews-7fd7574f009b)
+
+### 2/20/2019
+
+1. [Median of binary search tree](https://www.geeksforgeeks.org/find-median-bst-time-o1-space/)
+2. Find a path from top left to bottom right of a matrix
+3. [Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/description/)
+4. [Word Ladder](https://leetcode.com/problems/word-ladder/description/)
+5. Sort floating point numbers by decimal portion of the number only
+6. [Perfectly Balanced](https://www.reddit.com/r/dailyprogrammer/comments/afxxca/20190114_challenge_372_easy_perfectly_balanced/) (follow-up: with wildcards)
