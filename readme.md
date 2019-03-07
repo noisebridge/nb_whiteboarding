@@ -149,3 +149,15 @@ If you're new to whiteboarding, here's a miniature prerequisite roadmap to help 
 4. [Word Ladder](https://leetcode.com/problems/word-ladder/description/)
 5. Sort floating point numbers by decimal portion of the number only
 6. [Perfectly Balanced](https://www.reddit.com/r/dailyprogrammer/comments/afxxca/20190114_challenge_372_easy_perfectly_balanced/) (follow-up: with wildcards)
+
+### 2/27/2019
+
+1. [Time complexity of the harmonic series](https://stackoverflow.com/questions/25905118/finding-big-o-of-the-harmonic-series)
+
+### 3/6/2019
+
+1. [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
+2. [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/description/)
+3. [Array Manipulation](https://www.hackerrank.com/challenges/crush/problem)
+4. [Train of Dominoes](https://www.codewars.com/kata/train-of-dominoes)
+5. CTCI 16.14 Best Line
