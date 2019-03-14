@@ -161,3 +161,10 @@ If you're new to whiteboarding, here's a miniature prerequisite roadmap to help 
 3. [Array Manipulation](https://www.hackerrank.com/challenges/crush/problem)
 4. [Train of Dominoes](https://www.codewars.com/kata/train-of-dominoes)
 5. CTCI 16.14 Best Line
+
+### 3/13/2019
+
+1. [CTCI 16.19 Pond Sizes](https://github.com/myyk/cracking-the-coding-interview-6th/blob/master/src/main/java/com/github/myyk/cracking/Chapter16Solutions.java#L1021)
+2. [Score bowling](http://codingdojo.org/kata/Bowling/)
+3. Split a common address into parts
+4. [Name matching](https://www.glassdoor.com/Interview/-Name-Matching-At-Checkr-one-of-the-most-important-aspects-of-our-work-is-accurately-matching-records-to-candi-QTN_2629768.htm)
