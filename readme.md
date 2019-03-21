@@ -178,3 +178,4 @@ If you're new to whiteboarding, here's a miniature prerequisite roadmap to help 
 5. Determine if a graph is a tree, and if it isn't, delete edges to make it into one.
 6. Magic list: longest consecutive list of words made by changing one letter, given a word list and a start letter.
 7. Make a bunch of separate API calls and return the results in an array.
+8. [Array Manipulation](https://www.hackerrank.com/challenges/crush/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays)
