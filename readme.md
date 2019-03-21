@@ -168,3 +168,13 @@ If you're new to whiteboarding, here's a miniature prerequisite roadmap to help 
 2. [Score bowling](http://codingdojo.org/kata/Bowling/)
 3. Split a common address into parts
 4. [Name matching](https://www.glassdoor.com/Interview/-Name-Matching-At-Checkr-one-of-the-most-important-aspects-of-our-work-is-accurately-matching-records-to-candi-QTN_2629768.htm)
+
+### 3/20/2019
+
+1. CTCI 16.21 Sum Swap: Given two arrays of integers, find a pair of values (one value from each array) that you can swap to give the two arrays the same sum.
+2. Can you hop through an array of numbers from beginning to end? Each `a[i]` is the max potential step size. `[1,2,0,1] => true`, `[2,1,0,1] => false`.
+3. [Find a duplicate in an array containing numbers 1..N in O(n) time and O(1) space](https://www.jasondavies.com/duplicates/)
+4. [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/)
+5. Determine if a graph is a tree, and if it isn't, delete edges to make it into one.
+6. Magic list: longest consecutive list of words made by changing one letter, given a word list and a start letter.
+7. Make a bunch of separate API calls and return the results in an array.
