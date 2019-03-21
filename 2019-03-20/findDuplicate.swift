@@ -17,5 +17,5 @@ func findDuplicate(_ nums: [Int]) -> Int {
 }
 
 
-print("\(findDuplicate([3,9,5,7,9])")
-print("\(findDuplicate([1,3,4,2,2])")
+print("\(findDuplicate([3,9,5,7,9]))")
+print("\(findDuplicate([1,3,4,2,2]))")
