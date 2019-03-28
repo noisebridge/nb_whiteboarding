@@ -133,3 +133,55 @@ If you're new to whiteboarding, here's a miniature prerequisite roadmap to help 
 3. [House Robber](https://leetcode.com/problems/house-robber/description/)
 4. [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)
 5. [Remove nth node in linked list](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+
+### 2/13/2019
+
+1. Return deepest node in a binary tree
+2. [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/description/)
+3. [Roll a string](https://www.geeksforgeeks.org/roll-characters-string/)
+4. [Hungry Rabbit in Garden of Carrots](https://medium.com/@internetross/a-particularly-wascally-wabbit-lessons-from-my-annals-of-software-eng-interviews-7fd7574f009b)
+
+### 2/20/2019
+
+1. [Median of binary search tree](https://www.geeksforgeeks.org/find-median-bst-time-o1-space/)
+2. Find a path from top left to bottom right of a matrix
+3. [Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/description/)
+4. [Word Ladder](https://leetcode.com/problems/word-ladder/description/)
+5. Sort floating point numbers by decimal portion of the number only
+6. [Perfectly Balanced](https://www.reddit.com/r/dailyprogrammer/comments/afxxca/20190114_challenge_372_easy_perfectly_balanced/) (follow-up: with wildcards)
+
+### 2/27/2019
+
+1. [Time complexity of the harmonic series](https://stackoverflow.com/questions/25905118/finding-big-o-of-the-harmonic-series)
+
+### 3/6/2019
+
+1. [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
+2. [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/description/)
+3. [Array Manipulation](https://www.hackerrank.com/challenges/crush/problem)
+4. [Train of Dominoes](https://www.codewars.com/kata/train-of-dominoes)
+5. CTCI 16.14 Best Line
+
+### 3/13/2019
+
+1. [CTCI 16.19 Pond Sizes](https://github.com/myyk/cracking-the-coding-interview-6th/blob/master/src/main/java/com/github/myyk/cracking/Chapter16Solutions.java#L1021)
+2. [Score bowling](http://codingdojo.org/kata/Bowling/)
+3. Split a common address into parts
+4. [Name matching](https://www.glassdoor.com/Interview/-Name-Matching-At-Checkr-one-of-the-most-important-aspects-of-our-work-is-accurately-matching-records-to-candi-QTN_2629768.htm)
+
+### 3/20/2019
+
+1. CTCI 16.21 Sum Swap: Given two arrays of integers, find a pair of values (one value from each array) that you can swap to give the two arrays the same sum.
+2. Can you hop through an array of numbers from beginning to end? Each `a[i]` is the max potential step size. `[1,2,0,1] => true`, `[2,1,0,1] => false`.
+3. [Find a duplicate in an array containing numbers 1..N in O(n) time and O(1) space](https://www.jasondavies.com/duplicates/)
+4. [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/)
+5. Determine if a graph is a tree, and if it isn't, delete edges to make it into one.
+6. Magic list: longest consecutive list of words made by changing one letter, given a word list and a start letter.
+7. Make a bunch of separate API calls and return the results in an array.
+
+### 3/27/2019
+
+1. [Partition array into three parts with equal sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/description/)
+2. [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/description/)
+3. Find all anagrams of string `b` in string `a` in O(n) time and O(1) space.
+4. [Minimum size subarray sum](https://leetcode.com/problems/minimum-size-subarray-sum/)

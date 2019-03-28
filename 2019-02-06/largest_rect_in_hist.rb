@@ -48,7 +48,7 @@ def largest_rectangle_area_with_location heights
         if size > best
           best = size
           best_location = [x, y, i - x]
-        end  
+        end
 
         last_popped = start_idx.pop
       end
@@ -68,7 +68,7 @@ def largest_rectangle_area_with_location heights
     if size > best
       best = size
       best_location = [x, y, heights.size - x]
-    end  
+    end 
   end
 
   best_location
