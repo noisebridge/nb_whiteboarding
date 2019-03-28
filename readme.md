@@ -178,4 +178,10 @@ If you're new to whiteboarding, here's a miniature prerequisite roadmap to help 
 5. Determine if a graph is a tree, and if it isn't, delete edges to make it into one.
 6. Magic list: longest consecutive list of words made by changing one letter, given a word list and a start letter.
 7. Make a bunch of separate API calls and return the results in an array.
-8. [Array Manipulation](https://www.hackerrank.com/challenges/crush/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays)
+
+### 3/27/2019
+
+1. [Partition array into three parts with equal sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/description/)
+2. [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/description/)
+3. Find all anagrams of string `b` in string `a` in O(n) time and O(1) space.
+4. [Minimum size subarray sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
