@@ -185,3 +185,11 @@ If you're new to whiteboarding, here's a miniature prerequisite roadmap to help 
 2. [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/description/)
 3. Find all anagrams of string `b` in string `a` in O(n) time and O(1) space.
 4. [Minimum size subarray sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
+
+### 4/3/2019
+
+1. [Balanced binary tree](https://leetcode.com/problems/balanced-binary-tree/description/)
+2. [Invert binary tree](https://leetcode.com/problems/invert-binary-tree/description/)
+3. [Longest common prefix](https://leetcode.com/problems/longest-common-prefix/)
+4. [Cycle in linked list](https://leetcode.com/problems/linked-list-cycle/)
+5. [Desert crossing](https://stackoverflow.com/questions/52023569/bfs-traversing-a-desert-graph-under-certain-rules/)
