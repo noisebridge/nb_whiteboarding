@@ -193,3 +193,12 @@ If you're new to whiteboarding, here's a miniature prerequisite roadmap to help 
 3. [Longest common prefix](https://leetcode.com/problems/longest-common-prefix/)
 4. [Cycle in linked list](https://leetcode.com/problems/linked-list-cycle/)
 5. [Desert crossing](https://stackoverflow.com/questions/52023569/bfs-traversing-a-desert-graph-under-certain-rules/)
+
+### 4/10/2019
+
+1. [Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii/)
+2. [Repair HTML Brackets](https://stackoverflow.com/questions/55602620/repair-html-tag-brackets-using-python/)
+3. [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/)
+4. [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/description/)
+5. [Count vowels in all substrings of a string](https://www.geeksforgeeks.org/count-the-number-of-vowels-occurred-in-the-substrings-of-given-string/)
+6. [Waffle Choppers](https://codejam.withgoogle.com/2018/challenges/0000000000007883/dashboard)
