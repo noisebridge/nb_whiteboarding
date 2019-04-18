@@ -202,3 +202,10 @@ If you're new to whiteboarding, here's a miniature prerequisite roadmap to help 
 4. [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/description/)
 5. [Count vowels in all substrings of a string](https://www.geeksforgeeks.org/count-the-number-of-vowels-occurred-in-the-substrings-of-given-string/)
 6. [Waffle Choppers](https://codejam.withgoogle.com/2018/challenges/0000000000007883/dashboard)
+
+### 4/17/2019
+
+1. [Egg drop problem](https://www.geeksforgeeks.org/egg-dropping-puzzle-dp-11/)
+2. maximum sum of any subsequence of non-adjacent numbers in array
+3. [Binary tree right side view](https://leetcode.com/problems/binary-tree-right-side-view/description/)
+4. [Online election](https://leetcode.com/articles/online-election/)
