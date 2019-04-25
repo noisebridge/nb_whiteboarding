@@ -185,3 +185,33 @@ If you're new to whiteboarding, here's a miniature prerequisite roadmap to help 
 2. [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/description/)
 3. Find all anagrams of string `b` in string `a` in O(n) time and O(1) space.
 4. [Minimum size subarray sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
+
+### 4/3/2019
+
+1. [Balanced binary tree](https://leetcode.com/problems/balanced-binary-tree/description/)
+2. [Invert binary tree](https://leetcode.com/problems/invert-binary-tree/description/)
+3. [Longest common prefix](https://leetcode.com/problems/longest-common-prefix/)
+4. [Cycle in linked list](https://leetcode.com/problems/linked-list-cycle/)
+5. [Desert crossing](https://stackoverflow.com/questions/52023569/bfs-traversing-a-desert-graph-under-certain-rules/)
+
+### 4/10/2019
+
+1. [Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii/)
+2. [Repair HTML Brackets](https://stackoverflow.com/questions/55602620/repair-html-tag-brackets-using-python/)
+3. [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/)
+4. [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/description/)
+5. [Count vowels in all substrings of a string](https://www.geeksforgeeks.org/count-the-number-of-vowels-occurred-in-the-substrings-of-given-string/)
+6. [Waffle Choppers](https://codejam.withgoogle.com/2018/challenges/0000000000007883/dashboard)
+
+### 4/17/2019
+
+1. [Egg drop problem](https://www.geeksforgeeks.org/egg-dropping-puzzle-dp-11/)
+2. maximum sum of any subsequence of non-adjacent numbers in array
+3. [Binary tree right side view](https://leetcode.com/problems/binary-tree-right-side-view/description/)
+4. [Online election](https://leetcode.com/articles/online-election/)
+
+### 4/24/2019
+
+1. [Merge strings with common last and first word](https://stackoverflow.com/questions/55779390/merge-strings-with-common-last-and-first-word)
+2. Count primes between 1 and `n` (both exclusive).
+3. [Sort array of 0s, 1s and 2s in O(n)](https://www.geeksforgeeks.org/sort-an-array-of-0s-1s-and-2s/)
