@@ -209,3 +209,9 @@ If you're new to whiteboarding, here's a miniature prerequisite roadmap to help 
 2. maximum sum of any subsequence of non-adjacent numbers in array
 3. [Binary tree right side view](https://leetcode.com/problems/binary-tree-right-side-view/description/)
 4. [Online election](https://leetcode.com/articles/online-election/)
+
+### 4/24/2019
+
+1. [Merge strings with common last and first word](https://stackoverflow.com/questions/55779390/merge-strings-with-common-last-and-first-word)
+2. Count primes between 1 and `n` (both exclusive).
+3. [Sort array of 0s, 1s and 2s in O(n)](https://www.geeksforgeeks.org/sort-an-array-of-0s-1s-and-2s/)
