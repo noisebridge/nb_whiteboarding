@@ -215,3 +215,8 @@ If you're new to whiteboarding, here's a miniature prerequisite roadmap to help 
 1. [Merge strings with common last and first word](https://stackoverflow.com/questions/55779390/merge-strings-with-common-last-and-first-word)
 2. Count primes between 1 and `n` (both exclusive).
 3. [Sort array of 0s, 1s and 2s in O(n)](https://www.geeksforgeeks.org/sort-an-array-of-0s-1s-and-2s/)
+
+### 5/1/2019
+
+1. Code [insertion sort](https://en.wikipedia.org/wiki/Insertion_sort).
+2. Design and code <a href="https://en.wikipedia.org/wiki/Minesweeper_(video_game)">Minesweeper</a>.
