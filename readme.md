@@ -220,3 +220,8 @@ If you're new to whiteboarding, here's a miniature prerequisite roadmap to help 
 
 1. Code [insertion sort](https://en.wikipedia.org/wiki/Insertion_sort).
 2. Design and code <a href="https://en.wikipedia.org/wiki/Minesweeper_(video_game)">Minesweeper</a>.
+
+### 5/8/2019
+
+1. Implement a class that supports the following operations: `addStr(str)`, `containsPrefix(prefix)`, `contains(str)`.
+2. [Grid illumination](https://leetcode.com/problems/grid-illumination/)
