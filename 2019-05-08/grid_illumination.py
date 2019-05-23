@@ -1,5 +1,29 @@
 '''
 Jon R. and Greg collaboration
+
+With N of 10^9, the naive approaches of creating a grid of numbers
+or iterating over lamps to determine lightedness is intractable. 
+The approach we used involves four dict data structures and one set:
+
+- x: col numbers => count of lamps located on the col
+- y: row numbers => count of lamps located on the row
+- l_d: diagonal index => count of lamps located on the diagonal
+- r_d: diagonal index => count of lamps located on the diagonal
+- lamps: a set of coordinates for lamps
+
+After building these structures in O(len(lamps)), we answer queries 
+in O(1) by indexing into each of the data structures to check 
+lightedness. Next, we turn off lamps by iterating over the 9 neighbor 
+cells surrounding the query. For each lamp located in one of these 
+cells, we delete it from the lamp set and decrement its count from 
+each of the four structures, deleting any keys that reach 0, which 
+indicates no lights shine on this row/column/diagonal.
+
+The last detail is how diagonals are computed: for the top left to
+bottom right diagonal, we can get a unique index by subtracting the 
+column from the row location of a lamp. For the bottom left to top 
+right diagonal, we can get a unique index by adding the column and 
+row for that lamp.
 '''
 
 from collections import defaultdict

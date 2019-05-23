@@ -225,3 +225,16 @@ If you're new to whiteboarding, here's a miniature prerequisite roadmap to help 
 
 1. Implement a class that supports the following operations: `addStr(str)`, `containsPrefix(prefix)`, `contains(str)`.
 2. [Grid illumination](https://leetcode.com/problems/grid-illumination/)
+
+### 5/15/2019
+
+1. Break number into sum of decimal places, e.g. `5206` => `"5000 + 200 + 6"`.
+2. [Merge two binary trees](https://leetcode.com/problems/merge-two-binary-trees/)
+3. [Recover a tree from preorder traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/)
+
+### 5/22/2019
+
+1. [Remove all adjacent duplicates in string](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/description/)
+2. [Next greater node in linked list](https://leetcode.com/problems/next-greater-node-in-linked-list/description/)
+3. [Longest string chain](https://leetcode.com/problems/longest-string-chain/description/)
+4. [Longest duplicate substring](https://leetcode.com/problems/longest-duplicate-substring/discuss/290871/Python-Binary-Search)
