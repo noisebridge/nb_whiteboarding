@@ -238,3 +238,18 @@ If you're new to whiteboarding, here's a miniature prerequisite roadmap to help 
 2. [Next greater node in linked list](https://leetcode.com/problems/next-greater-node-in-linked-list/description/)
 3. [Longest string chain](https://leetcode.com/problems/longest-string-chain/description/)
 4. [Longest duplicate substring](https://leetcode.com/problems/longest-duplicate-substring/discuss/290871/Python-Binary-Search)
+
+### 5/29/2019
+
+1. [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
+2. [Flipping an Image](https://leetcode.com/problems/flipping-an-image/)
+3. [Height Checker](https://leetcode.com/problems/height-checker/)
+4. [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/)
+5. Explain how a web browser works.
+
+### 6/5/2019
+
+1. [Sort int array according to sum of digits](https://www.geeksforgeeks.org/sort-the-numbers-according-to-their-sum-of-digits/)
+2. Find length of longest increasing set of numbers anywhere in an array.
+3. Given an array of positive and negative numbers, determine if the array can be partitioned into more than one subarray such that all subarrays have the same sum.
+4. [Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/description/)
