@@ -8,7 +8,7 @@ If you're new to whiteboarding, here's a miniature prerequisite roadmap to help 
 
 1. Learn [programming fundamentals](https://greenteapress.com/wp/think-python-2e/) (variables, functions, loops, arrays, etc). [Python](https://www.python.org/about/gettingstarted/) is a popular language choice; however, most algorithm books use Java, C or C++, so exposure to one of those is recommended.
 2. Explore the [basics of data structures and algorithms](http://interactivepython.org/runestone/static/pythonds/index.html) (big-O, stacks, queues, graphs, hashing, sorting, searching, etc).
-3. Grab a copy of [Cracking the Coding Interview](http://ahmed-badawy.com/blog/wp-content/uploads/2018/10/Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.pdf), read a few chapters and try some problems.
+3. Grab a copy of Cracking the Coding Interview ([6th](https://leonmercanti.com/books/personal-development/Cracking%20the%20Coding%20Interview%20189%20Programming%20Questions%20and%20Solutions.pdf) or [4th](https://epiportal.com/Ebooks/Cracking%20the%20Coding%20Interview%2C%204%20Edition%20-%20150%20Programming%20Interview%20Questions%20and%20Solutions.pdf))
 4. Sign up for [LeetCode](https://leetcode.com/ggorlen/) and [other coding challenge sites](https://medium.com/coderbyte/the-10-best-coding-challenge-websites-for-2018-12b57645b654) and keep solving!
 
 ## Pull request guidelines
@@ -251,5 +251,5 @@ If you're new to whiteboarding, here's a miniature prerequisite roadmap to help 
 
 1. [Sort int array according to sum of digits](https://www.geeksforgeeks.org/sort-the-numbers-according-to-their-sum-of-digits/)
 2. Find length of longest increasing set of numbers anywhere in an array.
-3. Given an array of positive and negative numbers, determine if the array can be partitioned into more than one subarray such that all subarrays have the same sum.
+3. [Given an array of positive and negative numbers, determine if the array can be partitioned into more than one subarray such that all subarrays have the same sum.](https://www.geeksforgeeks.org/check-if-it-possible-to-partition-in-k-subarrays-with-equal-sum/)
 4. [Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/description/)
