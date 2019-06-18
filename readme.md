@@ -253,3 +253,8 @@ If you're new to whiteboarding, here's a miniature prerequisite roadmap to help 
 2. Find length of longest increasing set of numbers anywhere in an array.
 3. [Given an array of positive and negative numbers, determine if the array can be partitioned into more than one subarray such that all subarrays have the same sum.](https://www.geeksforgeeks.org/check-if-it-possible-to-partition-in-k-subarrays-with-equal-sum/)
 4. [Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/description/)
+
+### 6/12/2019
+
+1. [Merge intervals](https://leetcode.com/problems/merge-intervals/)
+2. [Reverse a linked list in place](https://leetcode.com/problems/reverse-linked-list/)
