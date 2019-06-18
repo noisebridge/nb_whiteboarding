@@ -8,7 +8,7 @@ If you're new to whiteboarding, here's a miniature prerequisite roadmap to help 
 
 1. Learn [programming fundamentals](https://greenteapress.com/wp/think-python-2e/) (variables, functions, loops, arrays, etc). [Python](https://www.python.org/about/gettingstarted/) is a popular language choice; however, most algorithm books use Java, C or C++, so exposure to one of those is recommended.
 2. Explore the [basics of data structures and algorithms](http://interactivepython.org/runestone/static/pythonds/index.html) (big-O, stacks, queues, graphs, hashing, sorting, searching, etc).
-3. Grab a copy of [Cracking the Coding Interview](http://ahmed-badawy.com/blog/wp-content/uploads/2018/10/Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.pdf), read a few chapters and try some problems.
+3. Grab a copy of Cracking the Coding Interview ([6th](https://leonmercanti.com/books/personal-development/Cracking%20the%20Coding%20Interview%20189%20Programming%20Questions%20and%20Solutions.pdf) or [4th](https://epiportal.com/Ebooks/Cracking%20the%20Coding%20Interview%2C%204%20Edition%20-%20150%20Programming%20Interview%20Questions%20and%20Solutions.pdf))
 4. Sign up for [LeetCode](https://leetcode.com/ggorlen/) and [other coding challenge sites](https://medium.com/coderbyte/the-10-best-coding-challenge-websites-for-2018-12b57645b654) and keep solving!
 
 ## Pull request guidelines
@@ -215,3 +215,46 @@ If you're new to whiteboarding, here's a miniature prerequisite roadmap to help 
 1. [Merge strings with common last and first word](https://stackoverflow.com/questions/55779390/merge-strings-with-common-last-and-first-word)
 2. Count primes between 1 and `n` (both exclusive).
 3. [Sort array of 0s, 1s and 2s in O(n)](https://www.geeksforgeeks.org/sort-an-array-of-0s-1s-and-2s/)
+
+### 5/1/2019
+
+1. Code [insertion sort](https://en.wikipedia.org/wiki/Insertion_sort).
+2. Design and code <a href="https://en.wikipedia.org/wiki/Minesweeper_(video_game)">Minesweeper</a>.
+
+### 5/8/2019
+
+1. Implement a class that supports the following operations: `addStr(str)`, `containsPrefix(prefix)`, `contains(str)`.
+2. [Grid illumination](https://leetcode.com/problems/grid-illumination/)
+
+### 5/15/2019
+
+1. Break number into sum of decimal places, e.g. `5206` => `"5000 + 200 + 6"`.
+2. [Merge two binary trees](https://leetcode.com/problems/merge-two-binary-trees/)
+3. [Recover a tree from preorder traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/)
+
+### 5/22/2019
+
+1. [Remove all adjacent duplicates in string](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/description/)
+2. [Next greater node in linked list](https://leetcode.com/problems/next-greater-node-in-linked-list/description/)
+3. [Longest string chain](https://leetcode.com/problems/longest-string-chain/description/)
+4. [Longest duplicate substring](https://leetcode.com/problems/longest-duplicate-substring/discuss/290871/Python-Binary-Search)
+
+### 5/29/2019
+
+1. [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
+2. [Flipping an Image](https://leetcode.com/problems/flipping-an-image/)
+3. [Height Checker](https://leetcode.com/problems/height-checker/)
+4. [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/)
+5. Explain how a web browser works.
+
+### 6/5/2019
+
+1. [Sort int array according to sum of digits](https://www.geeksforgeeks.org/sort-the-numbers-according-to-their-sum-of-digits/)
+2. Find length of longest increasing set of numbers anywhere in an array.
+3. [Given an array of positive and negative numbers, determine if the array can be partitioned into more than one subarray such that all subarrays have the same sum.](https://www.geeksforgeeks.org/check-if-it-possible-to-partition-in-k-subarrays-with-equal-sum/)
+4. [Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/description/)
+
+### 6/12/2019
+
+1. [Merge intervals](https://leetcode.com/problems/merge-intervals/)
+2. [Reverse a linked list in place](https://leetcode.com/problems/reverse-linked-list/)
