@@ -258,3 +258,19 @@ If you're new to whiteboarding, here's a miniature prerequisite roadmap to help 
 
 1. [Merge intervals](https://leetcode.com/problems/merge-intervals/)
 2. [Reverse a linked list in place](https://leetcode.com/problems/reverse-linked-list/)
+
+### 6/19/2019
+
+1. Find all anagrams of a word in a list of words.
+2. [Counting Bits](https://leetcode.com/problems/counting-bits/description/)
+3. [Shortest Common Supersequence](https://leetcode.com/problems/shortest-common-supersequence/description/)
+4. Given a scrabble tray of letters (possibly containing duplicates) and an unordered valid word list array ("dictionary"), how many words in the dictionary can be formed using some or all words in the scrabble tray?
+5. [What happens when you type google.com into a browser and press enter?](https://github.com/alex/what-happens-when)
+
+### 6/26/2019
+
+1. [Insert interval](https://leetcode.com/problems/insert-interval/)
+2. Intersection of two lists
+3. Two sum variant where sum should be as close to a target value but not more, e.g. `[1,4,6,8], target = 12` returns `[4, 6]`.
+4. [Fix an almost-correct BST by swapping two nodes](https://www.geeksforgeeks.org/fix-two-swapped-nodes-of-bst/)
+5. [Perfectly balanced strings](https://www.reddit.com/r/dailyprogrammer/comments/afxxca/20190114_challenge_372_easy_perfectly_balanced/) (follow up: any letter of the alphabet may be present)
