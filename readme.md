@@ -271,6 +271,23 @@ If you're new to whiteboarding, here's a miniature prerequisite roadmap to help 
 
 1. [Insert interval](https://leetcode.com/problems/insert-interval/)
 2. Intersection of two lists
-3. Two sum variant where sum should be as close to a target value but not more, e.g. `[1,4,6,8], target = 12` returns `[4, 6]`.
+3. [Two sum variant where sum should be as close to a target value but not more](https://www.reddit.com/r/algorithms/comments/9o16io/largest_pair_sum_that_is_less_than_k_in_an_array/), e.g. `[1,4,6,8], target = 12` returns `[4, 6]`.
 4. [Fix an almost-correct BST by swapping two nodes](https://www.geeksforgeeks.org/fix-two-swapped-nodes-of-bst/)
-5. [Perfectly balanced strings](https://www.reddit.com/r/dailyprogrammer/comments/afxxca/20190114_challenge_372_easy_perfectly_balanced/) (follow up: any letter of the alphabet may be present)
+5. [Perfectly balanced strings](https://www.reddit.com/r/dailyprogrammer/comments/afxxca/20190114_challenge_372_easy_perfectly_balanced/) (follow up: any letters of the alphabet may be present)
+
+### 7/3/2019
+
+1. [Distribute candies to people](https://leetcode.com/problems/distribute-candies-to-people/description/)
+2. [Create an in-memory transactional database like Redis (log(n) lookup times)](https://www.careercup.com/question?id=5729985940684800). Ops include `save [key] [val]`, `get [key]`, `begin xact`, `commit`, `rollback`.
+3. Write map/filter/reduce functions from scratch.
+
+### 7/10/2019
+
+1. [Maximum width of binary tree](https://leetcode.com/problems/maximum-width-of-binary-tree/description/)
+2. Given an array of candidates and vote times `[["a", 1], ["b", 2]]` and a time `t`, return the candidate who won the most votes at that time.
+3. [Find the point where the most intervals overlap](https://www.geeksforgeeks.org/find-the-point-where-maximum-intervals-overlap/) 
+  - variant 1: find the best range given as a paramater
+  - variant 2: compress the data for sequential hours like RLE
+  - variant 3: [Array Manipulation](https://www.hackerrank.com/challenges/crush/problem)
+4. Design a blackjack game
+5. Explain HTTP
