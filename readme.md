@@ -286,11 +286,9 @@ If you're new to whiteboarding, here's a miniature prerequisite roadmap to help 
 1. [Maximum width of binary tree](https://leetcode.com/problems/maximum-width-of-binary-tree/description/)
 2. Given an array of candidates and vote times `[["a", 1], ["b", 2]]` and a time `t`, return the candidate who won the most votes at that time.
 3. [Find the point where the most intervals overlap](https://www.geeksforgeeks.org/find-the-point-where-maximum-intervals-overlap/) 
-
-    - variant 1: find the best range given as a paramater
-    - variant 2: compress the data for sequential hours like RLE
-    - variant 3: [Array Manipulation](https://www.hackerrank.com/challenges/crush/problem)
-
+  - variant 1: find the best range given as a paramater
+  - variant 2: compress the data for sequential hours like RLE
+  - variant 3: [Array Manipulation](https://www.hackerrank.com/challenges/crush/problem)
 4. Design a blackjack game
 5. Explain HTTP
 
