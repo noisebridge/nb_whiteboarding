@@ -289,6 +289,7 @@ If you're new to whiteboarding, here's a miniature prerequisite roadmap to help 
   - variant 1: find the best range given as a paramater
   - variant 2: compress the data for sequential hours like RLE
   - variant 3: [Array Manipulation](https://www.hackerrank.com/challenges/crush/problem)
+
 4. Design a blackjack game
 5. Explain HTTP
 
