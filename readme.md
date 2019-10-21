@@ -8,7 +8,7 @@ If you're new to whiteboarding, here's a miniature prerequisite roadmap to help 
 
 1. Learn [programming fundamentals](https://greenteapress.com/wp/think-python-2e/) (variables, functions, loops, arrays, etc). [Python](https://www.python.org/about/gettingstarted/) is a popular language choice; however, most algorithm books use Java, C or C++, so exposure to one of those is recommended.
 2. Explore the [basics of data structures and algorithms](http://interactivepython.org/runestone/static/pythonds/index.html) (big-O, stacks, queues, graphs, hashing, sorting, searching, etc).
-3. Grab a copy of Cracking the Coding Interview ([6th](https://leonmercanti.com/books/personal-development/Cracking%20the%20Coding%20Interview%20189%20Programming%20Questions%20and%20Solutions.pdf) or [4th](https://epiportal.com/Ebooks/Cracking%20the%20Coding%20Interview%2C%204%20Edition%20-%20150%20Programming%20Interview%20Questions%20and%20Solutions.pdf))
+3. Grab a copy of Cracking the Coding Interview ([4th ed here](https://epiportal.com/Ebooks/Cracking%20the%20Coding%20Interview%2C%204%20Edition%20-%20150%20Programming%20Interview%20Questions%20and%20Solutions.pdf))
 4. Sign up for [LeetCode](https://leetcode.com/ggorlen/) and [other coding challenge sites](https://medium.com/coderbyte/the-10-best-coding-challenge-websites-for-2018-12b57645b654) and keep solving!
 
 ## Pull request guidelines
@@ -286,8 +286,18 @@ If you're new to whiteboarding, here's a miniature prerequisite roadmap to help 
 1. [Maximum width of binary tree](https://leetcode.com/problems/maximum-width-of-binary-tree/description/)
 2. Given an array of candidates and vote times `[["a", 1], ["b", 2]]` and a time `t`, return the candidate who won the most votes at that time.
 3. [Find the point where the most intervals overlap](https://www.geeksforgeeks.org/find-the-point-where-maximum-intervals-overlap/) 
-  - variant 1: find the best range given as a paramater
-  - variant 2: compress the data for sequential hours like RLE
-  - variant 3: [Array Manipulation](https://www.hackerrank.com/challenges/crush/problem)
+
+    - variant 1: find the best range given as a paramater
+    - variant 2: compress the data for sequential hours like RLE
+    - variant 3: [Array Manipulation](https://www.hackerrank.com/challenges/crush/problem)
+
 4. Design a blackjack game
 5. Explain HTTP
+
+### 10/20/2019
+
+1. [Brick Wall](https://leetcode.com/problems/brick-wall/description/)
+2. [Minimum Cost Tree From Leaf Values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/description/)
+3. [All Possible Full Binary Trees](https://leetcode.com/problems/all-possible-full-binary-trees/description/)
+4. [Interleaving String](https://leetcode.com/problems/interleaving-string/description/)
+5. [Remove K Digits](https://leetcode.com/problems/remove-k-digits/description/)
